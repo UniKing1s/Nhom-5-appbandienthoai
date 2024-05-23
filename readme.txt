@@ -8,7 +8,7 @@ trên port 5000
 
 
 # Backend cho các api đã được deploy 
-		https://backendphonestore.onrender.com/products
+		https://backendphonestore-0gx0.onrender.com
 # tài khoản admin dùng cho trang https://khoivo.id.vn/ để quản lý
 - wow112
 - khoivo99122
@@ -20,7 +20,7 @@ trên port 5000
 
 # các class trong app có chứa api cần thay đổi nếu thay đổi restapi tới backend trên máy
 - CartAdapter
-- line 131 - 133 CartAdapter (https://backendphonestore.onrender.com/images/" + tên hình ảnh)
+- line 131 - 133 CartAdapter (https://backendphonestore-0gx0.onrender.com/images/" + tên hình ảnh)
 - RegisterActivity
 - LoginActivity
 - HomeFragment
